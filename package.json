@@ -1,0 +1,21 @@
+{
+  "name": "switch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert-sound-notify": "0.0.8",
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.5.2",
+    "jquery": "^3.5.1",
+    "nodemailer": "^6.4.11",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "sound-player": "^1.0.13"
+  }
+}
